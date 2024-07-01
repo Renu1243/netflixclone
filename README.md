@@ -1,2 +1,2 @@
-Bharat INtern Task-2
+Bharat Intern Task-2
 Netflix homepage clone
